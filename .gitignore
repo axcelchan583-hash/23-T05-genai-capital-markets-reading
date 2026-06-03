@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Local full texts and downloaded documents
+*.pdf
+*.caj
+*.kdh
+*.nh
+*.txt
+
+# Raw data and generated caches
+data/raw/
+data/interim/
+data/processed/
+results/
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+~$*
+
