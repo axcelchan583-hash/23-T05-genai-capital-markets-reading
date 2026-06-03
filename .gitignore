@@ -2,7 +2,6 @@
 .DS_Store
 
 # Local full texts and downloaded documents
-*.pdf
 *.caj
 *.kdh
 *.nh
