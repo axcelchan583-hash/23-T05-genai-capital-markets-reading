@@ -25,4 +25,4 @@ This repository keeps the reading notes and field map for the T05 GenAI and capi
 
 The full-text PDFs are intentionally not committed. On the local machine, the current source folder is:
 
-`/Users/mac/computerscience/23实证选题探索/23-T05-genai-capital-markets-reading/reference/GenAI+stock`
+`/Users/mac/computerscience/23实证选题探索/T05-genai-capital-markets-reading/reference/GenAI+stock`

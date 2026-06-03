@@ -4,7 +4,7 @@ These PDFs are kept locally for reading only and are not committed to GitHub.
 
 Local folder:
 
-`/Users/mac/computerscience/23实证选题探索/23-T05-genai-capital-markets-reading/reference/GenAI+stock`
+`/Users/mac/computerscience/23实证选题探索/T05-genai-capital-markets-reading/reference/GenAI+stock`
 
 Current files:
 
