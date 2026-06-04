@@ -18,6 +18,8 @@ This repository keeps the reading notes and field map for the T05 GenAI and capi
 ## Current Files
 
 - `docs/close_reading/01_three_genai_stock_papers_close_reading_and_qian_replication_diagnosis_20260602.md`
+- `docs/close_reading/02_三篇制定文献的精读.md`
+- `docs/close_reading/03_三篇指定文献完整精读_20260604.md`
 - `docs/field_maps/02_genai_capital_markets_reading_list_20260602.md`
 - `docs/reference_manifest/local_pdf_inventory_20260603.md`
 
