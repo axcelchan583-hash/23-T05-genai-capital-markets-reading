@@ -2,6 +2,8 @@
 .DS_Store
 
 # Local full texts and downloaded documents
+# Note: reference/**/*.pdf are intentionally tracked in this repo (the reading
+# list of papers to read). PDFs are NOT ignored; only extracted plain text is.
 *.caj
 *.kdh
 *.nh
